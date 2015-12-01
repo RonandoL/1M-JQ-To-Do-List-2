@@ -1,0 +1,61 @@
+.container {
+  margin: 0 auto;
+  width: 45%;
+  font-weight: bold;
+  font-size: 1.2em;
+  color: #3b3b3b;
+}
+
+a {
+  color: #3b3b3b;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+.inline {
+  float: left;
+}
+
+.clearBoth {
+  clear: both;
+}
+
+.checkbox {
+  display: inline-block;
+}
+
+hr {
+  margin: 15px 0;
+}
+
+input[type="text"] {
+    width: 55%;
+    height: 35px;
+    font-size: 18px;
+    font-weight: normal;
+    padding-left: 10px;
+}
+
+input[type="checkbox"] {
+    width: 30px;
+}
+
+.remove {
+    float: right;
+    cursor: pointer;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
+
+
+/**/
